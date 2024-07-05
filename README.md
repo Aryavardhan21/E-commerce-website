@@ -5,7 +5,7 @@
 
 ❖ Install NodeJs ( Ignore If Already Installed)
 1. Visit the official Node.js website i.e)
-   https://nodejs.org/en/download/
+   https://nodejs.org/en/download/ 
 
    
 3. Download the Node.js installer
